@@ -1,0 +1,14 @@
+https://github.com/zhanglanzhu521/properties.git
+
+512312126@qq.com
+zlz1987518
+
+
+
+
+https://blog.csdn.net/fox9916/article/details/79474868
+
+
+
+
+依次启动eureka config service ribbon feign zuul
