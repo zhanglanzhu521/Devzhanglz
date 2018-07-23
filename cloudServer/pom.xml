@@ -16,13 +16,13 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>../serverConfig</module>
-        <module>../serviceCenterEureka</module>
-        <module>../zserverHelloService</module>
-        <module>../zserverCustomService</module>
-        <module>../zserverHelloService1</module>
-        <module>../serverFeign</module>
-        <module>../serverGateway</module>
+        <module>/serverConfig</module>
+        <module>/serviceCenterEureka</module>
+        <module>/zserverHelloService</module>
+        <module>/zserverCustomService</module>
+        <module>/zserverHelloService1</module>
+        <module>/serverFeign</module>
+        <module>/serverGateway</module>
     </modules>
 
 
