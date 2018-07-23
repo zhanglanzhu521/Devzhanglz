@@ -23,7 +23,6 @@
         <module>/zserverHelloService1</module>
         <module>/serverFeign</module>
         <module>/serverGateway</module>
-        <module>zlztestcom</module>
     </modules>
 
 
