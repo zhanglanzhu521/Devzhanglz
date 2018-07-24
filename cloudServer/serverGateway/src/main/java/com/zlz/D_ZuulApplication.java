@@ -11,10 +11,10 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableZuulProxy
-public class ZuulApplication {
+public class D_ZuulApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ZuulApplication.class, args);
+        SpringApplication.run(D_ZuulApplication.class, args);
     }
 
     @Bean

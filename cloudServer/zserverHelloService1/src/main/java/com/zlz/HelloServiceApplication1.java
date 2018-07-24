@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 @EnableEurekaClient
-public class HelloServiceApplication {
+public class HelloServiceApplication1 {
     public static void main(String[] args) {
-        SpringApplication.run(HelloServiceApplication.class, args);
+        SpringApplication.run(HelloServiceApplication1.class, args);
     }
 
 

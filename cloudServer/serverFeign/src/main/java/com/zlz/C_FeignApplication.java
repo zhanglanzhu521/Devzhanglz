@@ -22,10 +22,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @EnableHystrixDashboard//hystrix dashboard(仪表盘)功能
 @EnableCircuitBreaker//hystrix dashboard(仪表盘)功能
-public class FeignServiceApplication {
+public class C_FeignApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FeignServiceApplication.class, args);
+        SpringApplication.run(C_FeignApplication.class, args);
     }
 
     //springCloud config 拉取内容 测试 str

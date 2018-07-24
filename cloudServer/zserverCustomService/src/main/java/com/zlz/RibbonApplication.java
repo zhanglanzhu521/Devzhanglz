@@ -19,10 +19,10 @@ import org.springframework.web.client.RestTemplate;
 @RestController
 @EnableHystrix//断路器
 @EnableHystrixDashboard//在ribbon中使用hystrix dashboard(仪表盘)功能
-public class RibbonServiceApplication {
+public class RibbonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RibbonServiceApplication.class, args);
+        SpringApplication.run(RibbonApplication.class, args);
     }
 
 
