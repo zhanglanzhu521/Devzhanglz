@@ -34,4 +34,7 @@ spring.cloud.config.uri=http://127.0.0.1:8887/
 
 ####下面这种方式也是可以的,为了拉取第二区间的名称不一致的情况,拉取的文件就可以不同第二区间了 end
 
+
+http://localhost:8887/master/lisiService-dev.properties
+
 #############远程仓库springcloudconfig 功能 end############
